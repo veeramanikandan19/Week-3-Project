@@ -132,7 +132,9 @@ Or open the notebook in Google Colab and run all cells.
     ├── income_distribution.png
     ├── rooms_vs_bedrooms.png
     └── housing_age_distribution.png
+    
 ouput preview:
+
 <img width="880" height="436" alt="image" src="https://github.com/user-attachments/assets/d2346e4a-9585-47ba-8b87-e61f6709a63b" />
 <img width="568" height="437" alt="image" src="https://github.com/user-attachments/assets/9d97db4f-0355-4dc3-8787-b469fe5258aa" />
 <img width="563" height="439" alt="image" src="https://github.com/user-attachments/assets/a1a2e239-9abb-466b-a257-67239679860a" />
@@ -140,6 +142,7 @@ ouput preview:
 
 
 📋 Output Generated:
+
 Cleaned dataset
 Statistical summaries
 Housing age analysis
